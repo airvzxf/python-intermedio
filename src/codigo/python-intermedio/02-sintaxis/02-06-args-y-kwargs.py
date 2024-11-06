@@ -1,3 +1,5 @@
+# https://python-intermedio.readthedocs.io/es/latest/args_and_kwargs.html
+
 def single_argument(arg):
     print("=== Single argument ===")
     print(f'arg: {arg}')

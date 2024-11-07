@@ -2,7 +2,7 @@
 
 if __name__ == '__main__':
     is_error_file = True
-    file_name = 'test.txt'
+    file_name = 'test-01.txt'
 
     # Flip-flop the boolean value to show one trigger, one error, or the other: is_error_file.
     print('=== Multiple exceptions with commas ===')

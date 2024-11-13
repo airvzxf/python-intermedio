@@ -1,0 +1,3 @@
+1 Este es el primer documento de ejemplo sobre Python.
+2 Este es el segundo documento que habla sobre programación en general.
+3 Un tutorial de Python para principiantes.
